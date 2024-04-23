@@ -1,6 +1,6 @@
 
 Paper title:
-An efficient Deep learning approach to detect multiclass traffic signal violation using image processing
+**An efficient Deep learning approach to detect multiclass traffic signal violation using image processing**
 
 
 
